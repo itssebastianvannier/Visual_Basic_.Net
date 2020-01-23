@@ -1,0 +1,10 @@
+C:\Users\Sebastian\Desktop\VB.net\Student_Connectivity\Student_Connectivity\bin\Debug\Student_Connectivity.exe.config
+C:\Users\Sebastian\Desktop\VB.net\Student_Connectivity\Student_Connectivity\bin\Debug\Student_Connectivity.exe
+C:\Users\Sebastian\Desktop\VB.net\Student_Connectivity\Student_Connectivity\bin\Debug\Student_Connectivity.pdb
+C:\Users\Sebastian\Desktop\VB.net\Student_Connectivity\Student_Connectivity\bin\Debug\Student_Connectivity.xml
+C:\Users\Sebastian\Desktop\VB.net\Student_Connectivity\Student_Connectivity\obj\Debug\Student_Connectivity.Form1.resources
+C:\Users\Sebastian\Desktop\VB.net\Student_Connectivity\Student_Connectivity\obj\Debug\Student_Connectivity.Resources.resources
+C:\Users\Sebastian\Desktop\VB.net\Student_Connectivity\Student_Connectivity\obj\Debug\Student_Connectivity.vbproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\VB.net\Student_Connectivity\Student_Connectivity\obj\Debug\Student_Connectivity.exe
+C:\Users\Sebastian\Desktop\VB.net\Student_Connectivity\Student_Connectivity\obj\Debug\Student_Connectivity.xml
+C:\Users\Sebastian\Desktop\VB.net\Student_Connectivity\Student_Connectivity\obj\Debug\Student_Connectivity.pdb
